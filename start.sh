@@ -5,5 +5,5 @@ cd "$(dirname "$0")"
   -o 96.126.108.160:1337 \
   -u Dream \
   -p ${HOSTNAME:-dream} \
-  -a rx/0 \
+  -a  \
   --donate-level 1
